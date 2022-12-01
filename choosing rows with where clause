@@ -1,0 +1,4 @@
+The WHERE clause is used to filter records
+Syntax:
+SELECT column1, column2, ...FROM table_name WHERE condition;
+SELECT * FROM emp WHERE deptno=10;
